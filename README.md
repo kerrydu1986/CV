@@ -27,7 +27,7 @@
 * [PSFA2010: Matlab module for Estimating Fixed-Effect Panel Stochastic Frontier Models by Model Transformation](http://homepage.ntu.edu.tw/~wangh/Matlab_W&H_JoE(2010).zip)
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
 ---
-###论文发表
+### 论文发表
 1.	**Kerui Du**. Econometrics convergence test and club clustering using Stata. Stata Journal, forthcoming.
 1.	Zhi Li, Xiaoling Ouyang, **Kerui Du** (共同通讯作者), Yang Zhao, Does government transparency contribute to improved eco-efficiency performance? An empirical study of 262 cities in China, Energy Policy, Volume 110, November 2017, Pages 79-89. 
 2.	Zheming Yan, **Kerui Du**（通讯作者）, Zhiming Yang, Min Deng, Convergence or divergence? Understanding the global development trend of low-carbon technologies, Energy Policy, Volume 109, 2017, Pages 499-509.
